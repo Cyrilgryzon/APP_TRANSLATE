@@ -149,4 +149,5 @@
 	<string name="loading_media">Loading media...</string>
 	<string name="go_to_wifi_settings">Go to Wi-Fi settings</string>
 	<string name="no_internet">No internet connection</string>
+	<string name="Yolo">Yolo is yolo</string>
 </resources>
