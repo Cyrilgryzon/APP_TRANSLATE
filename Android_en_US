@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
 	<string name="wifi_cam_ip" translatable="false">http://192.168.1.168</string>
 	<string name="buffering" translatable="false">Buffering: %s%%</string>
 	<string name="fps_video" translatable="false">Video FPS: %s</string>
@@ -149,4 +146,3 @@
 	<string name="loading_media">Loading media...</string>
 	<string name="go_to_wifi_settings">Go to Wi-Fi settings</string>
 	<string name="no_internet">No internet connection</string>
-</resources>
