@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="wifi_cam_ip" translatable="false">http://192.168.1.168</string>
+	<string name="buffering" translatable="false">Buffering: %s%%</string>
+	<string name="fps_video" translatable="false">Video FPS: %s</string>
+	<string name="fps_render" translatable="false">Render FPS: %s</string>
+
+	<string name="video_url">Video URL :</string>
+	<string name="video_url_default">http://soon.mindrevo.com/videos/2/247/video/635_alternative.mp4</string>
+	<string name="video_path">Video path :</string>
+	<string name="video_path_default" translatable="false">/sdcard/input.mp4</string>
+	<string name="video_play">Play</string>
+
+	<string name="disabled">Disabled</string>
+	<string name="gyroscope">Gyroscope</string>
+	<string name="finger_control_text">Use your finger to navigate</string>
+	<string name="gyro_control_text">Move your device or finger to navigate</string>
+	<string name="disconnect_from_camera">Disconnect from camera?</string>
+	<string name="flat">FLAT</string>
+	<string name="little_planet" translatable="false">LITTLE PLANET</string>
+	<string name="share">Share</string>
+	<string name="importText">Import</string>
+	<string name="image_imported_message"> was successfully imported to your gallery</string>
+	<string name="image_import_fail">Failed to import </string>
+	<string name="connection_too_slow">Error : slow internet connection</string>
+	<string name="camera_wifi_SSID_beginning" translatable="false">360CAM_</string>
+	<string name="camera_wifi_BSSID_beginning" translatable="false">ec:ba:fe</string>
+	<string name="connecting">connecting...</string>
+	<string name="downloading">Downloading</string>
+	<string name="error_out_of_ressources">Your device went out of memory ressources</string>
+	<string name="settings">Settings</string>
+	<string name="view_mode">View Mode</string>
+	<string name="post_to_twitter_success">Posting on Twitter...</string>
+	<string name="view_mode_indication">View Mode:</string>
+	<string name="share_on">Share on:</string>
+	<string name="view_mode_360_name" translatable="false">360</string>
+	<string name="view_mode_flat_name">Flat</string>
+	<string name="view_mode_little_planet_name" translatable="false">Little Planet</string>
+	<string name="view_mode_cardboard_name" translatable="false">Cardboard</string>
+	<string name="mail">Mail</string>
+	<string name="facebook" translatable="false">Facebook</string>
+	<string name="twitter" translatable="false">Twitter</string>
+	<string name="google_plus" translatable="false">Google +</string>
+
+	<string name="error_message_no_entry">Entry does not exist</string>
+	<string name="error_message_busy">Camera is not available</string>
+	<string name="error_message_no_sd">SD Card is not detected</string>
+	<string name="error">Error</string>
+
+	<string name="app_name" translatable="false">360cam</string>
+	<string name="media_progress" translatable="false">%1$d %%</string>
+	<string name="media_time_stub" translatable="false">0:00</string>
+	<string name="delete_file">Delete?</string>
+	<string name="download_file">Download?</string>
+	<string name="facebook_app_id" translatable="false">408314756030003</string>
+	<string name="facebook_app_name" translatable="false">360cam</string>
+	<string name="sd_card">SD Card</string>
+	<string name="help">Help</string>
+	<string name="home">Home</string>
+	<string name="my_gallery">My Gallery</string>
+
+	<string name="gps_data">GPS Data</string>
+	<string name="hdr" translatable="false">HDR</string>
+	<string name="hdr_render">Render HDR in app</string>
+	<string name="self_timer" translatable="false">Self timer</string>
+	<string name="interval">Interval</string>
+	<string name="connect_cam">Connect to camera</string>
+	<string name="best">Best Of</string>
+	<string name="products">Products</string>
+	<string name="update">Update</string>
+	<string name="remote">Remote</string>
+	<string name="preset">Pre-set</string>
+	<string name="setting_cam">Settings</string>
+	<string name="video">Video</string>
+	<string name="photo">Photo</string>
+	<string name="burst">Burst</string>
+	<string name="timelapse">Timelapse</string>
+	<string name="duration">Duration</string>
+	<string name="general_caps" translatable="false">general</string>
+	<string name="application">application</string>
+	<string name="accessories">accessories</string>
+	<string name="mode_selection">Mode</string>
+
+	<string name="camera">Camera</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="no_connection">No connection to 360cam</string>
+	<string name="videos">videos</string>
+	<string name="photos">photos</string>
+
+
+	<string name="web_server_url" translatable="false">http://api.360.tv/app.json</string>
+	<string name="uri_base" translatable="false">http://api.360.tv</string>
+	<string name="uri_video" translatable="false">http://player.vimeo.com/external</string>
+	<string name="wifi_cam_url" translatable="false">http://192.168.1.168/osc</string>
+	<string name="remote_camera">Remote Camera</string>
+
+
+	<string name="close_session">Close Session</string>
+	<string name="framerate" translatable="false">Frame rate</string>
+	<string name="stabilization">Stabilization</string>
+	<string name="playback">Playback</string>
+	<string name="place">Location</string>
+	<string name="gps" translatable="false">GPS</string>
+	<string name="choose_cam">Choose camera</string>
+	<string name="cam_connect_tuto">No 360cam detected. Please go to your network settings and connect to the camera Wi-Fi</string>
+	<string name="connecxion">Connection</string>
+	<string name="items">items</string>
+	<string name="capture_mode_switch">Switch capture mode</string>
+	<string name="recieving_settings_msg">Get Settings from camera</string>
+	<string name="cam_connection_error">Camera connection error. Please, reboot your camera</string>
+	<string name="cam_disconnect">You\'ve been disconnected from your camera</string>
+
+	<string name="action_settings">Settings</string>
+
+	<string name="camera_wifi_title">Connect Camera</string>
+	<string name="no_cam_available">No reachable camera</string>
+	<string name="wifi_search_waiting_message_text">Looking for reachable camera</string>
+	<string name="password">Password</string>
+	<string name="web_redirection_404">This content do not exist</string>
+	<string name="known_camera">Saved</string>
+	<string name="unknown_camera">Available</string>
+	<string name="connection_failed">Connection failed</string>
+	<string name="rendering_hdr">Rendering HDR image:</string>
+	<string name="receiving_hdr_images">Importing pictures</string>
+	<string name="forget_wifi">Forget this camera</string>
+	<string name="forget_wifi_message">Are you sure ?</string>
+	<string name="wait">Wait</string>
+	<string name="enable_vr">Switch to VR mode</string>
+	<string name="title_activity_main_activity_vr" translatable="false">MainActivityVR</string>
+	<string name="permission_storage_denied">Storage permissions have been denied</string>
+	<string name="permission_location_for_wifi_denied">Location permission have been denied. Please grant it or connect manually to your camera.</string>
+	<string name="permission_ask_location_for_wifi">Location permissions are necessary for Wi-Fi device search</string>
+	<string name="looking_for_internet">Looking for internet connection</string>
+	<string name="network_scan">Scanning networks...</string>
+	<string name="active">Enabled</string>
+	<string name="view">View</string>
+	<string name="stream_not_available">SORRY STREAM NOT AVAILABLE</string>
+	<string name="camera_busy_message">Camera is not available</string>
+	<string name="start_session_message">Start session</string>
+	<string name="get_capture_mode_message">Get current capture mode</string>
+	<string name="update_session_message">Updating session</string>
+	<string name="check_ca_connection_message">Checking connection to camera</string>
+	<string name="get_photo_settings">Get photo settings</string>
+	<string name="get_timelapse_settings">Get timelapse settings</string>
+	<string name="get_video_settings">Get video settings</string>
+	<string name="get_burst_settings">Get burst settings</string>
+	<string name="loading_media">Loading media...</string>
+	<string name="go_to_wifi_settings">Go to Wi-Fi settings</string>
+	<string name="no_internet">No internet connection</string>
+</resources>
